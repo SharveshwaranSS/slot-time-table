@@ -120,12 +120,11 @@ Execute the program using runserver command.
     </TABLE>
     </BODY>
     </HTML>
-    
 ```
 
 
 ## OUTPUT
-Screenshot 2024-11-19 211616.png
+![alt text](<Screenshot 2024-12-14 144144.png>)
 
 
 ## RESULT
